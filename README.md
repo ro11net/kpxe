@@ -9,6 +9,7 @@ KPXE is a tool which combines the function of legacy components used for PXE and
 - `lightweight=true`
 - `ease-of-deployment=true`
 - `ease-of-maintenance=true`
+- `ease-of-use=true`
 
 
 ## Overview
