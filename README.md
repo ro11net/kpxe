@@ -4,9 +4,14 @@
 
 KPXE is a tool which combines the function of legacy components used for PXE and deploys everything in an On-Prem kubernetes cluster.  This allows for easy configuration of "disposable" kubernetes clusters and a scalable management environment for managing baremetal infrastructure.
 
+**The following list contains the core values of this project**
+- `scalable=true`
+- `lightweight=true`
+- `ease-of-deployment=true`
+- `ease-of-maintenance=true`
+
 
 ## Overview
-- []()
 - [Architecure Concept](#architecture-concept)
     - [TFTP](#tftp-concept)
     - [HTTP](#http-concept)
@@ -14,6 +19,7 @@ KPXE is a tool which combines the function of legacy components used for PXE and
         - [Web UI](#web-ui-concept)
     - [DHCP Server](#dhcp-concept)
 - [Contributing](#contributing)
+
 
 ## Architecture Concept
 
